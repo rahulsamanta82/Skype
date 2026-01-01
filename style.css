@@ -53,6 +53,8 @@ body {
   animation-delay: 0.55s;
 }
 
+
+
 .skype-loader .dot:after, .skype-loader .dot .first {
   content: "";
   position: absolute;
